@@ -1,0 +1,5 @@
+﻿  CompressString.cpp
+D:\CppSmallAssignment\CompressString\CompressString\CompressString.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+D:\CppSmallAssignment\CompressString\CompressString\CompressString.cpp(41,27): warning C4018: '<': signed/unsigned mismatch
+D:\CppSmallAssignment\CompressString\CompressString\CompressString.cpp(52,27): warning C4018: '<': signed/unsigned mismatch
+  CompressString.vcxproj -> D:\CppSmallAssignment\CompressString\Debug\CompressString.exe

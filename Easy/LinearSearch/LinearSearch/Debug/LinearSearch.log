@@ -1,0 +1,4 @@
+﻿  LinearSearch.cpp
+C:\Users\kai.wang\source\repos\LinearSearch\LinearSearch\LinearSearch.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kai.wang\source\repos\LinearSearch\LinearSearch\LinearSearch.cpp(37,27): warning C4018: '<': signed/unsigned mismatch
+  LinearSearch.vcxproj -> C:\Users\kai.wang\source\repos\LinearSearch\Debug\LinearSearch.exe

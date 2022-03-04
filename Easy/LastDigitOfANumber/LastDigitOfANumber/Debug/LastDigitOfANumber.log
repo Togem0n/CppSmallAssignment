@@ -1,0 +1,3 @@
+﻿  LastDigitOfANumber.cpp
+D:\CppSmallAssignment\LastDigitOfANumber\LastDigitOfANumber\LastDigitOfANumber.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+  LastDigitOfANumber.vcxproj -> D:\CppSmallAssignment\LastDigitOfANumber\Debug\LastDigitOfANumber.exe

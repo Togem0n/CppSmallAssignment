@@ -1,0 +1,4 @@
+﻿  OccurencesOfCharactersInAString.cpp
+D:\CppSmallAssignment\OccurencesOfCharactersInAString\OccurencesOfCharactersInAString\OccurencesOfCharactersInAString.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+D:\CppSmallAssignment\OccurencesOfCharactersInAString\OccurencesOfCharactersInAString\OccurencesOfCharactersInAString.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+  OccurencesOfCharactersInAString.vcxproj -> D:\CppSmallAssignment\OccurencesOfCharactersInAString\Debug\OccurencesOfCharactersInAString.exe

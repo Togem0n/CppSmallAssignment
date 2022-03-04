@@ -1,0 +1,3 @@
+﻿  LuckyNumber.cpp
+D:\CppSmallAssignment\LuckyNumber\LuckyNumber\LuckyNumber.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+  LuckyNumber.vcxproj -> D:\CppSmallAssignment\LuckyNumber\Debug\LuckyNumber.exe
